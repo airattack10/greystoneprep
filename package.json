@@ -1,0 +1,58 @@
+{
+  "name": "Greystone Prep School",
+  "version": "1.0.0",
+  "description": "Pimp digity implementation of the Greystone Prep website using Jekyll, React.js, and other goodness ",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('Dance with me purple cow');"
+  },
+  "author": "Jeff Jurica",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.10.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "grunt": "^1.0.1",
+    "grunt-babel": "^6.0.0",
+    "grunt-concurrent": "^2.3.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-convert": "^0.1.12",
+    "grunt-sass": "^1.2.0",
+    "grunt-shell": "^1.3.0",
+    "load-grunt-tasks": "^3.5.0",
+    "react": "^15.2.1",
+    "react-addons-update": "^15.2.1",
+    "react-autosuggest": "^3.8.0",
+    "react-dom": "^15.2.1",
+    "time-grunt": "^1.4.0"
+  },
+  "dependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-react": "^6.11.1",
+    "grunt": "^1.0.1",
+    "grunt-babel": "^6.0.0",
+    "grunt-concurrent": "^2.3.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.2.1",
+    "grunt-shell": "^1.3.1",
+    "load-grunt-tasks": "^3.5.2",
+    "react": "^15.3.2",
+    "react-addons-update": "^15.3.2",
+    "react-autosuggest": "^3.9.0",
+    "react-dom": "^15.3.2",
+    "slideout": "^1.0.1",
+    "time-grunt": "^1.4.0",
+    "webpack": "^1.13.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airattack10/greystoneprep"
+  },
+  "bugs": {
+    "url": "https://github.com/airattack10/greystoneprep/issues"
+  },
+  "homepage": "https://github.com/airattack10/greystoneprep#readme"
+}

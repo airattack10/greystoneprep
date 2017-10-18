@@ -1,0 +1,90 @@
+<!doctype html>
+<!--[if lt IE 7 ]><html itemscope itemtype="http://schema.org/{% if page.id or post.id %}Article{% else %}Organization{% endif %}" id="ie6" class="ie ie-old" lang="en-US"><![endif]-->
+<!--[if IE 7 ]>   <html itemscope itemtype="http://schema.org/{% if page.id or post.id %}Article{% else %}Organization{% endif %}" id="ie7" class="ie ie-old" lang="en-US"><![endif]-->
+<!--[if IE 8 ]>   <html itemscope itemtype="http://schema.org/{% if page.id or post.id %}Article{% else %}Organization{% endif %}" id="ie8" class="ie ie-old" lang="en-US"><![endif]-->
+<!--[if IE 9 ]>   <html itemscope itemtype="http://schema.org/{% if page.id or post.id %}Article{% else %}Organization{% endif %}" id="ie9" class="ie" lang="en-US"><![endif]-->
+<!--[if gt IE 9]><!--><html itemscope itemtype="http://schema.org/{% if page.id or post.id %}Article{% else %}Organization{% endif %}" lang="en-US"><!--<![endif]-->
+<head>
+
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <title>Greystone Prep School</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    {% if page.sitemap == false %}
+    <meta name="robots" content="noindex, nofollow">
+    {% else %}
+    <meta name="robots" content="index, follow">
+    {% endif %}
+    {% if page.meta_description %}
+      <meta name="description" content="{{ page.meta_description }}">
+    {% endif %}
+
+    <!-- RSS -->
+    <link rel="alternate" type="application/rss+xml" title="{{ site.data.global.title }} | {{ site.data.global.description }}" href="{{ site.baseurl }}/feed.xml">
+    <link rel="alternate" type="application/atom+xml" title="{{ site.data.global.title }} | {{ site.data.global.description }}" href="{{ site.baseurl }}/atom.xml">
+
+    <!-- Favicons -->
+    <link rel="shortcut icon" sizes="16x16 24x24 32x32 48x48 64x64 96x96" href="{{ site.baseurl }}/favicon.ico">
+
+    <meta charset="utf-8">
+    <meta name="application-name" content="{{ site.data.global.title }} | {{ site.data.global.description }}">
+    <meta name="msapplication-TileImage" content="{{ site.baseurl }}/img/favicons/favicon-144.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+
+    <!-- Fonts -->
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/vendor/css/font-awesome.min.css">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/vendor/owl-carousel/owl.carousel.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/vendor/owl-carousel/owl.theme.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/vendor/owl-carousel/owl.transitions.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css?{{site.time | date: '%F-%H-%M'}}">
+    <!--[if lt IE 9]>
+        <script src="{{ site.baseurl }}/assets/vendor/js/html5-shiv.min.js"></script>
+        <script src="{{ site.baseurl }}/assets/vendor/js/respond.min.js"></script>
+    <![endif]-->
+    <!-- JavaScript -->
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/vendor/js/jquery.min.js" charset="utf-8"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/vendor/js/bootstrap.min.js" charset="utf-8"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/vendor/js/react.js" charset="utf-8"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/vendor/js/react-dom.js" charset="utf-8"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/vendor/js/underscore-min.js" charset="utf-8"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/vendor/js/instafeed.min.js" charset="utf-8"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/vendor/owl-carousel/owl.carousel.min.js" charset="utf-8"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/vendor/js/matchHeight.js" charset="utf-8"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/vendor/js/moment.js" charset="utf-8"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/vendor/js/scrollreveal.min.js" charset="utf-8"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/vendor/js/iframeResizer.min.js" charset="utf-8"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/vendor/js/tada.min.js" charset="utf-8"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/javascripts/entry.js" charset="utf-8"></script>
+    <script type="text/javascript">var _kmq = _kmq || [];
+      var _kmk = _kmk || '5323e4441b53ece6001e9c63adee77e834a0d0af';
+      function _kms(u){
+        setTimeout(function(){
+          var d = document, f = d.getElementsByTagName('script')[0],
+          s = d.createElement('script');
+          s.type = 'text/javascript'; s.async = true; s.src = u;
+          f.parentNode.insertBefore(s, f);
+        }, 1);
+      }
+      _kms('//i.kissmetrics.com/i.js');
+      _kms('//scripts.kissmetrics.com/' + _kmk + '.2.js');
+    </script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-21044942-1', 'auto');
+      ga('require', 'linkid');
+      ga('send', 'pageview');
+    </script>
+</head>
+<body class="{{ post.title | downcase | replace:' ','-' | replace:',','' | strip_html }}{% if page.category %} category-{{ page.category }}{% endif %}{% if page.layout-class %}{{ page.layout-class }}{% endif %}" {% if page.scroll_nav_id %} data-spy="scroll" data-target="{{page.scroll_nav_id}}" data-offset="{{page.scroll_nav_offset}}"{% endif %}>
+{% unless page.hide_main_nav == true %}
+  {% include nav-main.html %}
+{% endunless %}
