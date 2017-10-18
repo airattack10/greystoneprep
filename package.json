@@ -4,7 +4,7 @@
   "description": "Pimp digity implementation of the Greystone Prep website using Jekyll, React.js, and other goodness ",
   "main": "index.js",
   "scripts": {
-    "test": "console.log('Dance with me purple cow');"
+    "test": "console.log('Test');"
   },
   "author": "Jeff Jurica",
   "license": "ISC",
@@ -49,7 +49,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/airattack10/greystoneprep"
+    "url": "git+https://github.com/airattack10/greystoneprep.git"
   },
   "bugs": {
     "url": "https://github.com/airattack10/greystoneprep/issues"
