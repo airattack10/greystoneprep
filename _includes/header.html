@@ -38,10 +38,13 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/vendor/css/font-awesome.min.css">
 
     <!-- Styles -->
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/vendor/owl-carousel/owl.carousel.css">
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/vendor/owl-carousel/owl.theme.css">
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/vendor/owl-carousel/owl.transitions.css">
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css?{{site.time | date: '%F-%H-%M'}}">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/_css/animate_css.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/_css/foundation_css.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/_css/hover_buttons.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/_css/magicwall_css.css?">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/_css/marquee_css.css?">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/_css/slick_theme.css?">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/_css/stylesheet.css?">
     <!--[if lt IE 9]>
         <script src="{{ site.baseurl }}/assets/vendor/js/html5-shiv.min.js"></script>
         <script src="{{ site.baseurl }}/assets/vendor/js/respond.min.js"></script>
@@ -83,6 +86,24 @@
       ga('require', 'linkid');
       ga('send', 'pageview');
     </script>
+
+
+    <!-- Facebook Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '318342261622845');
+    fbq('track', "PageView");</script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=318342261622845&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code -->
+
+
 </head>
 <body class="{{ post.title | downcase | replace:' ','-' | replace:',','' | strip_html }}{% if page.category %} category-{{ page.category }}{% endif %}{% if page.layout-class %}{{ page.layout-class }}{% endif %}" {% if page.scroll_nav_id %} data-spy="scroll" data-target="{{page.scroll_nav_id}}" data-offset="{{page.scroll_nav_offset}}"{% endif %}>
 {% unless page.hide_main_nav == true %}
