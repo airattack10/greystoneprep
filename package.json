@@ -1,6 +1,6 @@
 {
-  "name": "grunt",
-  "description": "The JavaScript Task Runner",
+  "name": "GreystonePrep",
+  "description": "Greystone Prep website",
   "version": "1.0.1",
   "author": {
     "name": "Grunt Development Team",

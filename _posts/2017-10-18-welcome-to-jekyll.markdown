@@ -1,25 +1,421 @@
 ---
-layout: post
+layout: default
 title:  "Welcome to Jekyll!"
 date:   2017-10-18 13:19:07 -0500
 categories: jekyll update
+
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+<div class="row content">
+<div class="responsive">
+<div class="stat1">
+<p class="number">NEW</p>
 
-Jekyll also offers powerful support for code snippets:
+<p class="stat-headline">ROTC ACCREDITATION</p>
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+<p class="stat-text">ROTC Military Science curriculum offered as an elective to all Greystone students.</p>
+</div>
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+<div class="stat2">
+<p class="number">#1</p>
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<p class="stat-headline">WE ARE THE BEST</p>
+
+<p class="stat-text">Schreiner University sends more students to the academies than any other university in the US.</p>
+</div>
+
+<div class="stat3">
+<p class="number">98.9%</p>
+
+<p class="stat-headline">SCHOLARSHIP LEADING TO COMMISSION</p>
+
+<p class="stat-text">98.8% of Greystone graduates earn a scholarship leading to a commission.</p>
+</div>
+
+<div class="stat4">
+<p class="number">$0</p>
+
+<p class="stat-headline">ZERO COST FOR GREYSTONE EXTRAS</p>
+
+<p class="stat-text">All that Greystone provides is included in the normal Schreiner tuition and fees.&nbsp;</p>
+</div>
+
+<div class="stat5">
+<p class="number">3</p>
+
+<p class="stat-headline">APPROVED BY THE BIG 3</p>
+
+<p class="stat-text">Greystone is approved for USAFA, USMA, and USNA foundation sponsored students.</p>
+</div>
+
+<div class="stat6">
+<p class="number">92%</p>
+
+<p class="stat-headline">GRADUATION RATE</p>
+
+<p class="stat-text">In the last 8 years, 92% of Greystone students that entered an academy, graduated from the academy.</p>
+</div>
+
+<div class="stat7">
+<p class="number">1 of 48</p>
+
+<p class="stat-headline">UNIVERSITY AFFILIATION</p>
+
+<p class="stat-text">Greystone is the only prep program in the US affiliated with a 4-year, fully accredited university.</p>
+</div>
+
+<div class="stat8">
+<p class="number">3 of 4</p>
+
+<p class="stat-headline">FREE AGENT APPOINTMENTS</p>
+
+<p class="stat-text">Approximately 3/4 of non-sponsored students who complete the Greystone program earn appointments.</p>
+</div>
+</div>
+</div>
+
+<div class="row">
+<div class="marquee"><img src="[[image:favicon]]" /> The Greystone application for 2017-2018 is now closed.&nbsp;<img src="[[image:favicon]]" /> Applications for 2018-2019 will open in January 2018.&nbsp;<img src="[[image:favicon]]" /> Visit the &quot;Admissions&quot; tab to learn more.&nbsp;<img src="[[image:favicon]]" /> Or select the &quot;Visit Greystone&quot; tab to schedule a campus visit!</div>
+</div>
+
+<div class="mid-buttons1 hide-for-medium-down">
+<div class="row">
+<div class="large-5 large-offset-1 columns"><a class="secondary mid-button1" href="[[page:Motivation]]"><img src="[[image:motivate_icon]]" /> Motivate and Inspire</a></div>
+
+<div class="large-6 columns"><a class="secondary mid-button2" href="[[page:Structure]]"><img src="[[image:structure_icon]]" /> Structure and Oversight</a></div>
+</div>
+</div>
+
+<div class="photo-buttons1">
+<div class="row">
+<div class="large-6 columns">
+<ul class="grid cs-style-3">
+	<li>
+	<figure><a href="[[page:Schreiner]]"><img alt="Schreiner Affiliation" src="[[image:schreiner_affiliation]]" /></a>
+
+	<figcaption><span>Greystone is the only academy prep program in the nation that is associated with a fully accredited, four-year university. This affiliation benefits candidates not only during the application process, but also during their four years at the academies.</span></figcaption>
+	</figure>
+	</li>
+	<li>
+	<figure><!-- ... --></figure>
+	</li>
+	<li>
+	<figure><a href="[[page:ROTC]]"><img alt="Army ROTC" src="[[image:army_rotc]]" /></a>
+	<figcaption><span>Thanks to a unique relationship with UTSA Army ROTC, Greystone students can begin their military experience right away!</span></figcaption>
+	</figure>
+	</li>
+	<li>
+	<figure><!-- ... --></figure>
+	</li>
+</ul>
+</div>
+
+<div class="large-6 columns">
+<div class="row">
+<ul class="grid cs-style-3">
+	<li>
+	<figure><a href="[[page:Enhancement]]"><img alt="Greystone Enhancement" src="[[image:greystone_enhancement]]" /></a>
+
+	<figcaption><span>Greystone enhances each aspect of the academy application process to ensure success for each candidate.</span></figcaption>
+	</figure>
+	</li>
+	<li>
+	<figure><!-- ... --></figure>
+	</li>
+</ul>
+</div>
+
+<div class="row">
+<div class="large-6 columns half-button-fix">
+<ul class="grid cs-style-3">
+	<li>
+	<figure><a href="[[page:Development]]"><img alt="Professional Development" src="[[image:professional_dev]]" /></a>
+
+	<figcaption><span>Developing a sound moral compass is one of the focuses of the Greystone program</span></figcaption>
+	</figure>
+	</li>
+	<li>
+	<figure><!-- ... --></figure>
+	</li>
+	<!-- ... -->
+</ul>
+</div>
+
+<div class="large-6 columns half-button-fix">
+<ul class="grid cs-style-3">
+	<li>
+	<figure><a href="[[page:Campus_Community]]"><img alt="Campus Community Life" src="[[image:campus_community_life]]" /></a>
+
+	<figcaption><span>As full time students, Greystoners have access to all Schreiner University facilities, events, and activities.</span></figcaption>
+	</figure>
+	</li>
+	<li>
+	<figure><!-- ... --></figure>
+	</li>
+	<!-- ... -->
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="mid-buttons2 hide-for-medium-down">
+<div class="large-12 columns">
+<div class="large-6 columns"><a class="secondary mid-button1" href="[[page:Team]]"><img src="[[image:team_icon]]" /> TEAM Organization</a></div>
+
+<div class="large-6 columns"><a class="secondary mid-button2" href="[[page:Support]]"><img src="[[image:support_icon]]" /> Support Mechanism</a></div>
+</div>
+</div>
+
+<div class="photo-buttons2">
+<div class="row">
+<div class="large-4 columns">
+<ul class="grid cs-style-3">
+	<li>
+	<figure><a href="[[page:Academy_Performance]]"><img alt="Greystone Enhancement" src="[[image:academy_performance]]" /></a>
+
+	<figcaption><span>Greystone empowers students to earn their appointment, but more importantly, to excel through their academy experience.</span></figcaption>
+	</figure>
+	</li>
+	<li>
+	<figure><!-- ... --></figure>
+	</li>
+	<!-- ... -->
+</ul>
+</div>
+
+<div class="large-4 columns">
+<div class="row">
+<ul class="grid cs-style-3">
+	<li>
+	<figure><a href="[[page:Academy_Way]]"><img alt="Greystone Enhancement" src="[[image:academy_way]]" /></a>
+
+	<figcaption><span>Why is that Greystone students do not march or wear uniforms?</span></figcaption>
+	</figure>
+	</li>
+	<li>
+	<figure><!-- ... --></figure>
+	</li>
+	<!-- ... -->
+</ul>
+</div>
+
+<div class="row">
+<ul class="grid cs-style-3">
+	<li>
+	<figure><a href="[[page:Career_Opportunities]]"><img alt="Greystone Enhancement" src="[[image:career_ops]]" /></a>
+
+	<figcaption><span>Superior academy preparation translates to more career options after graduation.</span></figcaption>
+	</figure>
+	</li>
+	<li>
+	<figure><!-- ... --></figure>
+	</li>
+	<!-- ... -->
+</ul>
+</div>
+</div>
+
+<div class="large-4 columns">
+<div class="row">
+<ul class="grid cs-style-3">
+	<li>
+	<figure><a href="[[page:Summer]]"><img alt="Greystone Enhancement" src="[[image:summer_program]]" /></a>
+
+	<figcaption><span>Students arrive early to get ahead in the application process.</span></figcaption>
+	</figure>
+	</li>
+	<li>
+	<figure><!-- ... --></figure>
+	</li>
+	<!-- ... -->
+</ul>
+</div>
+
+<div class="row">
+<ul class="grid cs-style-3">
+	<li>
+	<figure><a href="[[page:Service]]"><img alt="Greystone Enhancement" src="[[image:community_service]]" /></a>
+
+	<figcaption><span>Students volunteer in the community to prepare for a life of service.</span></figcaption>
+	</figure>
+	</li>
+	<li>
+	<figure><!-- ... --></figure>
+	</li>
+	<!-- ... -->
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+<div class="mid-buttons1 hide-for-medium-down">
+<div class="row">
+<div class="large-5 large-offset-1 columns"><a class="secondary mid-button1" href="[[page:Pictures]]"><img src="[[image:photos_icon]]" /> Photos</a></div>
+
+<div class="large-6 columns"><a class="secondary mid-button2" href="[[page:Videos]]"><img src="[[image:videos_icon]]" /> Videos</a></div>
+</div>
+</div>
+
+<div class="slideshow-row hide-for-medium-down">
+<div class="row">
+<div class="orbit-container">
+<ul data-orbit="">
+	<li class="active"><img alt="slide 1" src="[[image:slide1]]" />
+	<p class="slide-quote animated fadeInDown">&quot;An investment in knowledge pays the best interest&quot;</p>
+
+	<p class="slide-author animated fadeInDown">- Benjamin Franklin</p>
+	</li>
+	<li><img alt="slide 2" src="[[image:slide2]]" />
+	<p class="slide-quote animated fadeInDown">&quot;The highest reward for a person&#39;s toil is not what they get for it, but what they become by it.&quot;</p>
+
+	<p class="slide-author animated fadeInDown">- John Ruskin</p>
+	</li>
+	<li><img alt="slide 3" src="[[image:slide3]]" />
+	<p class="slide-quote animated fadeInDown">&quot;It&rsquo;s hard to beat a person who never gives up.&quot;</p>
+
+	<p class="slide-author animated fadeInDown">- Babe Ruth</p>
+	</li>
+	<li><img alt="slide 4" src="[[image:slide4]]" />
+	<p class="slide-quote animated fadeInDown">&quot;Decide what you want, decide what you are willing to exchange for it. Establish your priorities and go to work.&quot;</p>
+
+	<p class="slide-author animated fadeInDown">- H. L. Hunt</p>
+	</li>
+	<li><img alt="slide 5" src="[[image:slide5]]" />
+	<p class="slide-quote animated fadeInDown">&quot;Success is never final. Failure is never fatal.&quot;</p>
+
+	<p class="slide-author animated fadeInDown">- Joe Paterno</p>
+	</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="big-blue-buttons hide-for-medium-down">
+<div class="row">
+<div class="large-2 columns">
+<ul class="grid2 cs-style-4">
+	<li>
+	<figure><a href="[[page:News]]"><img alt="News" src="[[image:news]]" /></a>
+
+	<figcaption>
+	<h3>NEWS</h3>
+	</figcaption>
+	</figure>
+	</li>
+	<li>
+	<figure><!-- ... --></figure>
+	</li>
+	<!-- ... -->
+</ul>
+</div>
+
+<div class="large-2 columns">
+<div class="row">
+<ul class="grid2 cs-style-4">
+	<li>
+	<figure><a href="[[page:POD]]"><img alt="POD" src="[[image:pod]]" /></a>
+
+	<figcaption>
+	<h3>PLAN OF THE DAY</h3>
+	</figcaption>
+	</figure>
+	</li>
+	<li>
+	<figure><!-- ... --></figure>
+	</li>
+	<!-- ... -->
+</ul>
+</div>
+
+<div class="row">
+<ul class="grid2 cs-style-4">
+	<li>
+	<figure><a href="[[page:Compass]]"><img alt="Compass" src="[[image:compass]]" /></a>
+
+	<figcaption>
+	<h3>COMPASS NEWSLETTER</h3>
+	</figcaption>
+	</figure>
+	</li>
+	<li>
+	<figure><!-- ... --></figure>
+	</li>
+	<!-- ... -->
+</ul>
+</div>
+</div>
+
+<div class="large-2 columns">
+<div class="row">
+<ul class="grid2 cs-style-4">
+	<li>
+	<figure><a href="[[page:Donate]]"><img alt="Support" src="[[image:support]]" /></a>
+
+	<figcaption>
+	<h3>SUPPORT</h3>
+	</figcaption>
+	</figure>
+	</li>
+	<li>
+	<figure><!-- ... --></figure>
+	</li>
+	<!-- ... -->
+</ul>
+</div>
+
+<div class="row">
+<ul class="grid2 cs-style-4">
+	<li>
+	<figure><a href="[[page:Merchandise]]" target="_blank"><img alt="Merchandise" src="[[image:merch]]" /></a>
+
+	<figcaption>
+	<h3>MERCHANDISE</h3>
+	</figcaption>
+	</figure>
+	</li>
+	<li>
+	<figure><!-- ... --></figure>
+	</li>
+	<!-- ... -->
+</ul>
+</div>
+</div>
+
+<div class="large-2 columns">
+<ul class="grid2 cs-style-4">
+	<li>
+	<figure><a href="[[page:Testimonials]]"><img alt="Testimonials" src="[[image:testimonials]]" /></a>
+
+	<figcaption>
+	<h3>TESTIMONIALS</h3>
+	</figcaption>
+	</figure>
+	</li>
+	<li>
+	<figure><!-- ... --></figure>
+	</li>
+	<!-- ... -->
+</ul>
+</div>
+
+<div class="large-4 columns">
+<ul class="grid2 cs-style-4">
+	<li>
+	<figure><a href="[[page:Calendar]]"><img alt="Calendar" src="[[image:calendar]]" /></a>
+
+	<figcaption>
+	<h3>CALENDAR</h3>
+	</figcaption>
+	</figure>
+	</li>
+	<li>
+	<figure><!-- ... --></figure>
+	</li>
+	<!-- ... -->
+</ul>
+</div>
+</div>
+</div>
