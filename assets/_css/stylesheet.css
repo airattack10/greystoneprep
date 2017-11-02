@@ -658,12 +658,12 @@ body li {
 }
 
 .contact {
-    background: url("http://os_extranet_images.s3.amazonaws.com/338774_original.png") no-repeat;
+    background: url("../_images/contact_bg.png") no-repeat;
     height:245px;
 }
 
 .su_bg {
-        background: url("http://os_extranet_images.s3.amazonaws.com/338775_original.png") no-repeat;
+        background: url("../_images/su_bg.png") no-repeat;
     height:245px;
 }
 
@@ -687,29 +687,29 @@ body li {
 }
 
 .stat1 {
-    background: url("http://os_extranet_images.s3.amazonaws.com/381174_original.jpg") no-repeat;
+    background: url("../_images/stat1.png") no-repeat;
 }
 
 .stat2 {
-    background: url("http://os_extranet_images.s3.amazonaws.com/337658_original.png") no-repeat;
+    background: url("../_images/stat2.png") no-repeat;
 }
 .stat3 {
-    background: url("http://os_extranet_images.s3.amazonaws.com/337659_original.png") no-repeat;
+    background: url("../_images/stat3.png") no-repeat;
 }
 .stat4 {
-    background: url("http://os_extranet_images.s3.amazonaws.com/340334_original.png") no-repeat;
+    background: url("../_images/stat4.png") no-repeat;
 }
 .stat5 {
-    background: url("http://os_extranet_images.s3.amazonaws.com/337660_original.png") no-repeat;
+    background: url("../_images/stat5.png") no-repeat;
 }
 .stat6 {
-    background: url("http://os_extranet_images.s3.amazonaws.com/340335_original.png") no-repeat;
+    background: url("../_images/stat6.png") no-repeat;
 }
 .stat7 {
-    background: url("http://os_extranet_images.s3.amazonaws.com/340338_original.png") no-repeat;
+    background: url("../_images/stat7.png") no-repeat;
 }
 .stat8 {
-    background: url("http://os_extranet_images.s3.amazonaws.com/340337_original.png") no-repeat;
+    background: url("../_images/stat8.png") no-repeat;
 }
 
 .number {
