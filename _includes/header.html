@@ -106,6 +106,3 @@
 
 </head>
 <body class="{{ post.title | downcase | replace:' ','-' | replace:',','' | strip_html }}{% if page.category %} category-{{ page.category }}{% endif %}{% if page.layout-class %}{{ page.layout-class }}{% endif %}" {% if page.scroll_nav_id %} data-spy="scroll" data-target="{{page.scroll_nav_id}}" data-offset="{{page.scroll_nav_offset}}"{% endif %}>
-{% unless page.hide_main_nav == true %}
-  {% include nav-main.html %}
-{% endunless %}
