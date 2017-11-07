@@ -3,7 +3,10 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
+published: true
+
 ---
+
 
 <div class="row content">
 <div class="responsive">
@@ -74,14 +77,14 @@ layout: default
 </div>
 
 <div class="row">
-<div class="marquee"><img src="[[image:favicon]]" /> The Greystone application for 2017-2018 is now closed.&nbsp;<img src="[[image:favicon]]" /> Applications for 2018-2019 will open in January 2018.&nbsp;<img src="[[image:favicon]]" /> Visit the &quot;Admissions&quot; tab to learn more.&nbsp;<img src="[[image:favicon]]" /> Or select the &quot;Visit Greystone&quot; tab to schedule a campus visit!</div>
+<div class="marquee"><img src="{{ site.baseurl }}../assets/images/favicon.png" /> The Greystone application for 2017-2018 is now closed.&nbsp;<img src="{{ site.baseurl }}../assets/images/favicon.png" /> Applications for 2018-2019 will open in January 2018.&nbsp;<img src="{{ site.baseurl }}../assets/images/favicon.png" /> Visit the &quot;Admissions&quot; tab to learn more.&nbsp;<img src="{{ site.baseurl }}../assets/images/favicon.png" /> Or select the &quot;Visit Greystone&quot; tab to schedule a campus visit!</div>
 </div>
 
 <div class="mid-buttons1 hide-for-medium-down">
 <div class="row">
-<div class="large-5 large-offset-1 columns"><a class="secondary mid-button1" href="[[page:Motivation]]"><img src="[[image:motivate_icon]]" /> Motivate and Inspire</a></div>
+<div class="large-5 large-offset-1 columns"><a class="secondary mid-button1" href="{{ site.baseurl }}../pages/Motivation"><img src="{{ site.baseurl }}../assets/images/motivate_icon.png" /> Motivate and Inspire</a></div>
 
-<div class="large-6 columns"><a class="secondary mid-button2" href="[[page:Structure]]"><img src="[[image:structure_icon]]" /> Structure and Oversight</a></div>
+<div class="large-6 columns"><a class="secondary mid-button2" href="{{ site.baseurl }}../pages/Structure"><img src="{{ site.baseurl }}../assets/images/structure_icon.png" /> Structure and Oversight</a></div>
 </div>
 </div>
 
@@ -90,7 +93,7 @@ layout: default
 <div class="large-6 columns">
 <ul class="grid cs-style-3">
 	<li>
-	<figure><a href="[[page:Schreiner]]"><img alt="Schreiner Affiliation" src="[[image:schreiner_affiliation]]" /></a>
+	<figure><a href="{{ site.baseurl }}../pages/Schreiner"><img alt="Schreiner Affiliation" src="{{ site.baseurl }}../assets/images/schreiner_affiliation.jpg" /></a>
 
 	<figcaption><span>Greystone is the only academy prep program in the nation that is associated with a fully accredited, four-year university. This affiliation benefits candidates not only during the application process, but also during their four years at the academies.</span></figcaption>
 	</figure>
@@ -99,7 +102,7 @@ layout: default
 	<figure><!-- ... --></figure>
 	</li>
 	<li>
-	<figure><a href="[[page:ROTC]]"><img alt="Army ROTC" src="[[image:army_rotc]]" /></a>
+	<figure><a href="{{ site.baseurl }}../pages/ROTC"><img alt="Army ROTC" src="{{ site.baseurl }}../assets/images/army_rotc.jpg" /></a>
 	<figcaption><span>Thanks to a unique relationship with UTSA Army ROTC, Greystone students can begin their military experience right away!</span></figcaption>
 	</figure>
 	</li>
@@ -113,7 +116,7 @@ layout: default
 <div class="row">
 <ul class="grid cs-style-3">
 	<li>
-	<figure><a href="[[page:Enhancement]]"><img alt="Greystone Enhancement" src="[[image:greystone_enhancement]]" /></a>
+	<figure><a href="{{ site.baseurl }}../pages/Enhancement"><img alt="Greystone Enhancement" src="{{ site.baseurl }}../assets/images/greystone_enhancement.jpg" /></a>
 
 	<figcaption><span>Greystone enhances each aspect of the academy application process to ensure success for each candidate.</span></figcaption>
 	</figure>
@@ -128,7 +131,7 @@ layout: default
 <div class="large-6 columns half-button-fix">
 <ul class="grid cs-style-3">
 	<li>
-	<figure><a href="[[page:Development]]"><img alt="Professional Development" src="[[image:professional_dev]]" /></a>
+	<figure><a href="{{ site.baseurl }}../pages/Development"><img alt="Professional Development" src="{{ site.baseurl }}../assets/images/professional_dev.jpg" /></a>
 
 	<figcaption><span>Developing a sound moral compass is one of the focuses of the Greystone program</span></figcaption>
 	</figure>
@@ -143,7 +146,7 @@ layout: default
 <div class="large-6 columns half-button-fix">
 <ul class="grid cs-style-3">
 	<li>
-	<figure><a href="[[page:Campus_Community]]"><img alt="Campus Community Life" src="[[image:campus_community_life]]" /></a>
+	<figure><a href="{{ site.baseurl }}../pages/Campus_Community"><img alt="Campus Community Life" src="{{ site.baseurl }}../assets/images/campus_community_life.jpg" /></a>
 
 	<figcaption><span>As full time students, Greystoners have access to all Schreiner University facilities, events, and activities.</span></figcaption>
 	</figure>
@@ -161,9 +164,9 @@ layout: default
 
 <div class="mid-buttons2 hide-for-medium-down">
 <div class="large-12 columns">
-<div class="large-6 columns"><a class="secondary mid-button1" href="[[page:Team]]"><img src="[[image:team_icon]]" /> TEAM Organization</a></div>
+<div class="large-6 columns"><a class="secondary mid-button1" href="{{ site.baseurl }}../pages/TEAM"><img src="{{ site.baseurl }}../assets/images/team_icon.png" /> TEAM Organization</a></div>
 
-<div class="large-6 columns"><a class="secondary mid-button2" href="[[page:Support]]"><img src="[[image:support_icon]]" /> Support Mechanism</a></div>
+<div class="large-6 columns"><a class="secondary mid-button2" href="{{ site.baseurl }}../pages/Support"><img src="{{ site.baseurl }}../assets/images/support_icon.png" /> Support Mechanism</a></div>
 </div>
 </div>
 
@@ -172,7 +175,7 @@ layout: default
 <div class="large-4 columns">
 <ul class="grid cs-style-3">
 	<li>
-	<figure><a href="[[page:Academy_Performance]]"><img alt="Greystone Enhancement" src="[[image:academy_performance]]" /></a>
+	<figure><a href="{{ site.baseurl }}../pages/Academy_Performance"><img alt="Greystone Enhancement" src="{{ site.baseurl }}../assets/images/academy_performance.png" /></a>
 
 	<figcaption><span>Greystone empowers students to earn their appointment, but more importantly, to excel through their academy experience.</span></figcaption>
 	</figure>
@@ -188,7 +191,7 @@ layout: default
 <div class="row">
 <ul class="grid cs-style-3">
 	<li>
-	<figure><a href="[[page:Academy_Way]]"><img alt="Greystone Enhancement" src="[[image:academy_way]]" /></a>
+	<figure><a href="{{ site.baseurl }}../pages/Academy_Way"><img alt="Greystone Enhancement" src="{{ site.baseurl }}../assets/images/academy_way.jpg" /></a>
 
 	<figcaption><span>Why is that Greystone students do not march or wear uniforms?</span></figcaption>
 	</figure>
@@ -203,7 +206,7 @@ layout: default
 <div class="row">
 <ul class="grid cs-style-3">
 	<li>
-	<figure><a href="[[page:Career_Opportunities]]"><img alt="Greystone Enhancement" src="[[image:career_ops]]" /></a>
+	<figure><a href="{{ site.baseurl }}../pages/Career_Opportunities"><img alt="Greystone Enhancement" src="{{ site.baseurl }}../assets/images/career_ops.jpg" /></a>
 
 	<figcaption><span>Superior academy preparation translates to more career options after graduation.</span></figcaption>
 	</figure>
@@ -220,7 +223,7 @@ layout: default
 <div class="row">
 <ul class="grid cs-style-3">
 	<li>
-	<figure><a href="[[page:Summer]]"><img alt="Greystone Enhancement" src="[[image:summer_program]]" /></a>
+	<figure><a href="{{ site.baseurl }}../pages/Summer"><img alt="Greystone Enhancement" src="{{ site.baseurl }}../assets/images/summer_program.jpg" /></a>
 
 	<figcaption><span>Students arrive early to get ahead in the application process.</span></figcaption>
 	</figure>
@@ -235,7 +238,7 @@ layout: default
 <div class="row">
 <ul class="grid cs-style-3">
 	<li>
-	<figure><a href="[[page:Service]]"><img alt="Greystone Enhancement" src="[[image:community_service]]" /></a>
+	<figure><a href="{{ site.baseurl }}../pages/Service"><img alt="Greystone Enhancement" src="{{ site.baseurl }}../assets/images/community_service.jpg" /></a>
 
 	<figcaption><span>Students volunteer in the community to prepare for a life of service.</span></figcaption>
 	</figure>
@@ -252,9 +255,9 @@ layout: default
 
 <div class="mid-buttons1 hide-for-medium-down">
 <div class="row">
-<div class="large-5 large-offset-1 columns"><a class="secondary mid-button1" href="[[page:Pictures]]"><img src="[[image:photos_icon]]" /> Photos</a></div>
+<div class="large-5 large-offset-1 columns"><a class="secondary mid-button1" href="{{ site.baseurl }}../pages/Pictures"><img src="{{ site.baseurl }}../assets/images/photos_icon.png" /> Photos</a></div>
 
-<div class="large-6 columns"><a class="secondary mid-button2" href="[[page:Videos]]"><img src="[[image:videos_icon]]" /> Videos</a></div>
+<div class="large-6 columns"><a class="secondary mid-button2" href="{{ site.baseurl }}../pages/Videos"><img src="{{ site.baseurl }}../assets/images/videos_icon.png" /> Videos</a></div>
 </div>
 </div>
 
@@ -262,27 +265,27 @@ layout: default
 <div class="row">
 <div class="orbit-container">
 <ul data-orbit="">
-	<li class="active"><img alt="slide 1" src="[[image:slide1]]" />
+	<li class="active"><img alt="slide 1" src="{{ site.baseurl }}../assets/images/slide1.png" />
 	<p class="slide-quote animated fadeInDown">&quot;An investment in knowledge pays the best interest&quot;</p>
 
 	<p class="slide-author animated fadeInDown">- Benjamin Franklin</p>
 	</li>
-	<li><img alt="slide 2" src="[[image:slide2]]" />
+	<li><img alt="slide 2" src="{{ site.baseurl }}../assets/images/slide2.png" />
 	<p class="slide-quote animated fadeInDown">&quot;The highest reward for a person&#39;s toil is not what they get for it, but what they become by it.&quot;</p>
 
 	<p class="slide-author animated fadeInDown">- John Ruskin</p>
 	</li>
-	<li><img alt="slide 3" src="[[image:slide3]]" />
+	<li><img alt="slide 3" src="{{ site.baseurl }}../assets/images/slide3.png" />
 	<p class="slide-quote animated fadeInDown">&quot;It&rsquo;s hard to beat a person who never gives up.&quot;</p>
 
 	<p class="slide-author animated fadeInDown">- Babe Ruth</p>
 	</li>
-	<li><img alt="slide 4" src="[[image:slide4]]" />
+	<li><img alt="slide 4" src="{{ site.baseurl }}../assets/images/slide4.png" />
 	<p class="slide-quote animated fadeInDown">&quot;Decide what you want, decide what you are willing to exchange for it. Establish your priorities and go to work.&quot;</p>
 
 	<p class="slide-author animated fadeInDown">- H. L. Hunt</p>
 	</li>
-	<li><img alt="slide 5" src="[[image:slide5]]" />
+	<li><img alt="slide 5" src="{{ site.baseurl }}../assets/images/slide5.png" />
 	<p class="slide-quote animated fadeInDown">&quot;Success is never final. Failure is never fatal.&quot;</p>
 
 	<p class="slide-author animated fadeInDown">- Joe Paterno</p>
@@ -297,7 +300,7 @@ layout: default
 <div class="large-2 columns">
 <ul class="grid2 cs-style-4">
 	<li>
-	<figure><a href="[[page:News]]"><img alt="News" src="[[image:news]]" /></a>
+	<figure><a href="{{ site.baseurl }}../pages/News"><img alt="News" src="{{ site.baseurl }}../assets/images/news.jpg" /></a>
 
 	<figcaption>
 	<h3>NEWS</h3>
@@ -315,7 +318,7 @@ layout: default
 <div class="row">
 <ul class="grid2 cs-style-4">
 	<li>
-	<figure><a href="[[page:POD]]"><img alt="POD" src="[[image:pod]]" /></a>
+	<figure><a href="{{ site.baseurl }}../pages/POD"><img alt="POD" src="{{ site.baseurl }}../assets/images/pod.jpg" /></a>
 
 	<figcaption>
 	<h3>PLAN OF THE DAY</h3>
@@ -332,7 +335,7 @@ layout: default
 <div class="row">
 <ul class="grid2 cs-style-4">
 	<li>
-	<figure><a href="[[page:Compass]]"><img alt="Compass" src="[[image:compass]]" /></a>
+	<figure><a href="{{ site.baseurl }}../pages/Compass"><img alt="Compass" src="{{ site.baseurl }}../assets/images/compass.jpg" /></a>
 
 	<figcaption>
 	<h3>COMPASS NEWSLETTER</h3>
@@ -351,7 +354,7 @@ layout: default
 <div class="row">
 <ul class="grid2 cs-style-4">
 	<li>
-	<figure><a href="[[page:Donate]]"><img alt="Support" src="[[image:support]]" /></a>
+	<figure><a href="{{ site.baseurl }}../pages/Donate"><img alt="Support" src="{{ site.baseurl }}../assets/images/support.jpg" /></a>
 
 	<figcaption>
 	<h3>SUPPORT</h3>
@@ -368,7 +371,7 @@ layout: default
 <div class="row">
 <ul class="grid2 cs-style-4">
 	<li>
-	<figure><a href="[[page:Merchandise]]" target="_blank"><img alt="Merchandise" src="[[image:merch]]" /></a>
+	<figure><a href="{{ site.baseurl }}../pages/Merchandise" target="_blank"><img alt="Merchandise" src="{{ site.baseurl }}../assets/images/merch.jpg" /></a>
 
 	<figcaption>
 	<h3>MERCHANDISE</h3>
@@ -386,7 +389,7 @@ layout: default
 <div class="large-2 columns">
 <ul class="grid2 cs-style-4">
 	<li>
-	<figure><a href="[[page:Testimonials]]"><img alt="Testimonials" src="[[image:testimonials]]" /></a>
+	<figure><a href="{{ site.baseurl }}../pages/Testimonials"><img alt="Testimonials" src="{{ site.baseurl }}../assets/images/testimonials.jpg" /></a>
 
 	<figcaption>
 	<h3>TESTIMONIALS</h3>
@@ -403,7 +406,7 @@ layout: default
 <div class="large-4 columns">
 <ul class="grid2 cs-style-4">
 	<li>
-	<figure><a href="[[page:Calendar]]"><img alt="Calendar" src="[[image:calendar]]" /></a>
+	<figure><a href="{{ site.baseurl }}../pages/Calendar"><img alt="Calendar" src="{{ site.baseurl }}../assets/images/calendar.jpg" /></a>
 
 	<figcaption>
 	<h3>CALENDAR</h3>
