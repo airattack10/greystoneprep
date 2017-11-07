@@ -658,12 +658,12 @@ body li {
 }
 
 .contact {
-    background: url("../_images/contact_bg.png") no-repeat;
+    background: url("/assets/images/contact_bg.png") no-repeat;
     height:245px;
 }
 
 .su_bg {
-        background: url("../_images/su_bg.png") no-repeat;
+        background: url("/assets/images/su_bg.png") no-repeat;
     height:245px;
 }
 
