@@ -79,9 +79,9 @@ published: true
 
 <div class="mid-buttons1 hide-for-medium-down">
 <div class="row">
-<div class="large-5 large-offset-1 columns"><a class="secondary mid-button1" href="{{ site.baseurl }}../pages/Motivation"><img src="{{ site.baseurl }}../assets/images/motivate_icon.png" /> Motivate and Inspire</a></div>
+<div class="large-5 large-offset-1 columns"><a class="secondary mid-button1" href="{{ site.baseurl }}../Motivation"><img src="{{ site.baseurl }}../assets/images/motivate_icon.png" /> Motivate and Inspire</a></div>
 
-<div class="large-6 columns"><a class="secondary mid-button2" href="{{ site.baseurl }}../pages/Structure"><img src="{{ site.baseurl }}../assets/images/structure_icon.png" /> Structure and Oversight</a></div>
+<div class="large-6 columns"><a class="secondary mid-button2" href="{{ site.baseurl }}../Structure"><img src="{{ site.baseurl }}../assets/images/structure_icon.png" /> Structure and Oversight</a></div>
 </div>
 </div>
 
@@ -90,7 +90,7 @@ published: true
 <div class="large-6 columns">
 <ul class="grid cs-style-3">
 	<li>
-	<figure><a href="{{ site.baseurl }}../pages/Schreiner"><img alt="Schreiner Affiliation" src="{{ site.baseurl }}../assets/images/schreiner_affiliation.jpg" /></a>
+	<figure><a href="{{ site.baseurl }}../Schreiner"><img alt="Schreiner Affiliation" src="{{ site.baseurl }}../assets/images/schreiner_affiliation.jpg" /></a>
 
 	<figcaption><span>Greystone is the only academy prep program in the nation that is associated with a fully accredited, four-year university. This affiliation benefits candidates not only during the application process, but also during their four years at the academies.</span></figcaption>
 	</figure>
@@ -99,7 +99,7 @@ published: true
 	<figure><!-- ... --></figure>
 	</li>
 	<li>
-	<figure><a href="{{ site.baseurl }}../pages/ROTC"><img alt="Army ROTC" src="{{ site.baseurl }}../assets/images/army_rotc.jpg" /></a>
+	<figure><a href="{{ site.baseurl }}../ROTC"><img alt="Army ROTC" src="{{ site.baseurl }}../assets/images/army_rotc.jpg" /></a>
 	<figcaption><span>Thanks to a unique relationship with UTSA Army ROTC, Greystone students can begin their military experience right away!</span></figcaption>
 	</figure>
 	</li>
@@ -113,7 +113,7 @@ published: true
 <div class="row">
 <ul class="grid cs-style-3">
 	<li>
-	<figure><a href="{{ site.baseurl }}../pages/Enhancement"><img alt="Greystone Enhancement" src="{{ site.baseurl }}../assets/images/greystone_enhancement.jpg" /></a>
+	<figure><a href="{{ site.baseurl }}../Enhancement"><img alt="Greystone Enhancement" src="{{ site.baseurl }}../assets/images/greystone_enhancement.jpg" /></a>
 
 	<figcaption><span>Greystone enhances each aspect of the academy application process to ensure success for each candidate.</span></figcaption>
 	</figure>
@@ -128,7 +128,7 @@ published: true
 <div class="large-6 columns half-button-fix">
 <ul class="grid cs-style-3">
 	<li>
-	<figure><a href="{{ site.baseurl }}../pages/Development"><img alt="Professional Development" src="{{ site.baseurl }}../assets/images/professional_dev.jpg" /></a>
+	<figure><a href="{{ site.baseurl }}../Development"><img alt="Professional Development" src="{{ site.baseurl }}../assets/images/professional_dev.jpg" /></a>
 
 	<figcaption><span>Developing a sound moral compass is one of the focuses of the Greystone program</span></figcaption>
 	</figure>
@@ -143,7 +143,7 @@ published: true
 <div class="large-6 columns half-button-fix">
 <ul class="grid cs-style-3">
 	<li>
-	<figure><a href="{{ site.baseurl }}../pages/Campus_Community"><img alt="Campus Community Life" src="{{ site.baseurl }}../assets/images/campus_community_life.jpg" /></a>
+	<figure><a href="{{ site.baseurl }}../Campus_Community"><img alt="Campus Community Life" src="{{ site.baseurl }}../assets/images/campus_community_life.jpg" /></a>
 
 	<figcaption><span>As full time students, Greystoners have access to all Schreiner University facilities, events, and activities.</span></figcaption>
 	</figure>
@@ -161,9 +161,9 @@ published: true
 
 <div class="mid-buttons2 hide-for-medium-down">
 <div class="large-12 columns">
-<div class="large-6 columns"><a class="secondary mid-button1" href="{{ site.baseurl }}../pages/TEAM"><img src="{{ site.baseurl }}../assets/images/team_icon.png" /> TEAM Organization</a></div>
+<div class="large-6 columns"><a class="secondary mid-button1" href="{{ site.baseurl }}../TEAM"><img src="{{ site.baseurl }}../assets/images/team_icon.png" /> TEAM Organization</a></div>
 
-<div class="large-6 columns"><a class="secondary mid-button2" href="{{ site.baseurl }}../pages/Support"><img src="{{ site.baseurl }}../assets/images/support_icon.png" /> Support Mechanism</a></div>
+<div class="large-6 columns"><a class="secondary mid-button2" href="{{ site.baseurl }}../Support"><img src="{{ site.baseurl }}../assets/images/support_icon.png" /> Support Mechanism</a></div>
 </div>
 </div>
 
@@ -172,7 +172,7 @@ published: true
 <div class="large-4 columns">
 <ul class="grid cs-style-3">
 	<li>
-	<figure><a href="{{ site.baseurl }}../pages/Academy_Performance"><img alt="Greystone Enhancement" src="{{ site.baseurl }}../assets/images/academy_performance.png" /></a>
+	<figure><a href="{{ site.baseurl }}../Academy_Performance"><img alt="Greystone Enhancement" src="{{ site.baseurl }}../assets/images/academy_performance.png" /></a>
 
 	<figcaption><span>Greystone empowers students to earn their appointment, but more importantly, to excel through their academy experience.</span></figcaption>
 	</figure>
@@ -188,7 +188,7 @@ published: true
 <div class="row">
 <ul class="grid cs-style-3">
 	<li>
-	<figure><a href="{{ site.baseurl }}../pages/Academy_Way"><img alt="Greystone Enhancement" src="{{ site.baseurl }}../assets/images/academy_way.jpg" /></a>
+	<figure><a href="{{ site.baseurl }}../Academy_Way"><img alt="Greystone Enhancement" src="{{ site.baseurl }}../assets/images/academy_way.jpg" /></a>
 
 	<figcaption><span>Why is that Greystone students do not march or wear uniforms?</span></figcaption>
 	</figure>
@@ -203,7 +203,7 @@ published: true
 <div class="row">
 <ul class="grid cs-style-3">
 	<li>
-	<figure><a href="{{ site.baseurl }}../pages/Career_Opportunities"><img alt="Greystone Enhancement" src="{{ site.baseurl }}../assets/images/career_ops.jpg" /></a>
+	<figure><a href="{{ site.baseurl }}../Career_Opportunities"><img alt="Greystone Enhancement" src="{{ site.baseurl }}../assets/images/career_ops.jpg" /></a>
 
 	<figcaption><span>Superior academy preparation translates to more career options after graduation.</span></figcaption>
 	</figure>
@@ -220,7 +220,7 @@ published: true
 <div class="row">
 <ul class="grid cs-style-3">
 	<li>
-	<figure><a href="{{ site.baseurl }}../pages/Summer"><img alt="Greystone Enhancement" src="{{ site.baseurl }}../assets/images/summer_program.jpg" /></a>
+	<figure><a href="{{ site.baseurl }}../Summer"><img alt="Greystone Enhancement" src="{{ site.baseurl }}../assets/images/summer_program.jpg" /></a>
 
 	<figcaption><span>Students arrive early to get ahead in the application process.</span></figcaption>
 	</figure>
@@ -235,7 +235,7 @@ published: true
 <div class="row">
 <ul class="grid cs-style-3">
 	<li>
-	<figure><a href="{{ site.baseurl }}../pages/Service"><img alt="Greystone Enhancement" src="{{ site.baseurl }}../assets/images/community_service.jpg" /></a>
+	<figure><a href="{{ site.baseurl }}../Service"><img alt="Greystone Enhancement" src="{{ site.baseurl }}../assets/images/community_service.jpg" /></a>
 
 	<figcaption><span>Students volunteer in the community to prepare for a life of service.</span></figcaption>
 	</figure>
@@ -252,9 +252,9 @@ published: true
 
 <div class="mid-buttons1 hide-for-medium-down">
 <div class="row">
-<div class="large-5 large-offset-1 columns"><a class="secondary mid-button1" href="{{ site.baseurl }}../pages/Pictures"><img src="{{ site.baseurl }}../assets/images/photos_icon.png" /> Photos</a></div>
+<div class="large-5 large-offset-1 columns"><a class="secondary mid-button1" href="{{ site.baseurl }}../Pictures"><img src="{{ site.baseurl }}../assets/images/photos_icon.png" /> Photos</a></div>
 
-<div class="large-6 columns"><a class="secondary mid-button2" href="{{ site.baseurl }}../pages/Videos"><img src="{{ site.baseurl }}../assets/images/videos_icon.png" /> Videos</a></div>
+<div class="large-6 columns"><a class="secondary mid-button2" href="{{ site.baseurl }}../Videos"><img src="{{ site.baseurl }}../assets/images/videos_icon.png" /> Videos</a></div>
 </div>
 </div>
 
@@ -297,7 +297,7 @@ published: true
 <div class="large-2 columns">
 <ul class="grid2 cs-style-4">
 	<li>
-	<figure><a href="{{ site.baseurl }}../pages/News"><img alt="News" src="{{ site.baseurl }}../assets/images/news.jpg" /></a>
+	<figure><a href="{{ site.baseurl }}../News"><img alt="News" src="{{ site.baseurl }}../assets/images/news.jpg" /></a>
 
 	<figcaption>
 	<h3>NEWS</h3>
@@ -315,7 +315,7 @@ published: true
 <div class="row">
 <ul class="grid2 cs-style-4">
 	<li>
-	<figure><a href="{{ site.baseurl }}../pages/POD"><img alt="POD" src="{{ site.baseurl }}../assets/images/pod.jpg" /></a>
+	<figure><a href="{{ site.baseurl }}../POD"><img alt="POD" src="{{ site.baseurl }}../assets/images/pod.jpg" /></a>
 
 	<figcaption>
 	<h3>PLAN OF THE DAY</h3>
@@ -332,7 +332,7 @@ published: true
 <div class="row">
 <ul class="grid2 cs-style-4">
 	<li>
-	<figure><a href="{{ site.baseurl }}../pages/Compass"><img alt="Compass" src="{{ site.baseurl }}../assets/images/compass.jpg" /></a>
+	<figure><a href="{{ site.baseurl }}../Compass"><img alt="Compass" src="{{ site.baseurl }}../assets/images/compass.jpg" /></a>
 
 	<figcaption>
 	<h3>COMPASS NEWSLETTER</h3>
@@ -351,7 +351,7 @@ published: true
 <div class="row">
 <ul class="grid2 cs-style-4">
 	<li>
-	<figure><a href="{{ site.baseurl }}../pages/Donate"><img alt="Support" src="{{ site.baseurl }}../assets/images/support.jpg" /></a>
+	<figure><a href="{{ site.baseurl }}../Donate"><img alt="Support" src="{{ site.baseurl }}../assets/images/support.jpg" /></a>
 
 	<figcaption>
 	<h3>SUPPORT</h3>
@@ -368,7 +368,7 @@ published: true
 <div class="row">
 <ul class="grid2 cs-style-4">
 	<li>
-	<figure><a href="{{ site.baseurl }}../pages/Merchandise" target="_blank"><img alt="Merchandise" src="{{ site.baseurl }}../assets/images/merch.jpg" /></a>
+	<figure><a href="{{ site.baseurl }}../Merchandise" target="_blank"><img alt="Merchandise" src="{{ site.baseurl }}../assets/images/merch.jpg" /></a>
 
 	<figcaption>
 	<h3>MERCHANDISE</h3>
@@ -386,7 +386,7 @@ published: true
 <div class="large-2 columns">
 <ul class="grid2 cs-style-4">
 	<li>
-	<figure><a href="{{ site.baseurl }}../pages/Testimonials"><img alt="Testimonials" src="{{ site.baseurl }}../assets/images/testimonials.jpg" /></a>
+	<figure><a href="{{ site.baseurl }}../Testimonials"><img alt="Testimonials" src="{{ site.baseurl }}../assets/images/testimonials.jpg" /></a>
 
 	<figcaption>
 	<h3>TESTIMONIALS</h3>
@@ -403,7 +403,7 @@ published: true
 <div class="large-4 columns">
 <ul class="grid2 cs-style-4">
 	<li>
-	<figure><a href="{{ site.baseurl }}../pages/Calendar"><img alt="Calendar" src="{{ site.baseurl }}../assets/images/calendar.jpg" /></a>
+	<figure><a href="{{ site.baseurl }}../Calendar"><img alt="Calendar" src="{{ site.baseurl }}../assets/images/calendar.jpg" /></a>
 
 	<figcaption>
 	<h3>CALENDAR</h3>
