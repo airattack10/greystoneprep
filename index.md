@@ -403,7 +403,7 @@ published: true
 <div class="large-4 columns">
 <ul class="grid2 cs-style-4">
 	<li>
-	<figure><a href="{{ site.baseurl }}../Calendar"><img alt="Calendar" src="{{ site.baseurl }}../assets/images/calendar.jpg" /></a>
+	<figure><a href="{{ site.baseurl }}../calendar"><img alt="Calendar" src="{{ site.baseurl }}../assets/images/calendar.jpg" /></a>
 
 	<figcaption>
 	<h3>CALENDAR</h3>
