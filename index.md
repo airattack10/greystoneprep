@@ -74,7 +74,7 @@ published: true
 </div>
 
 <div class="row">
-<div class="marquee"><img src="{{ site.baseurl }}../assets/images/favicon.png" /> The Greystone application for 2017-2018 is now closed.&nbsp;<img src="{{ site.baseurl }}../assets/images/favicon.png" /> Applications for 2018-2019 will open in January 2018.&nbsp;<img src="{{ site.baseurl }}../assets/images/favicon.png" /> Visit the &quot;Admissions&quot; tab to learn more.&nbsp;<img src="{{ site.baseurl }}../assets/images/favicon.png" /> Or select the &quot;Visit Greystone&quot; tab to schedule a campus visit!</div>
+<div class="marquee"><img src="{{ site.baseurl }}../assets/images/favicon.png" /> The application for 2018-2019 is OPEN.&nbsp;<img src="{{ site.baseurl }}../assets/images/favicon.png" /> Visit the &quot;Admissions&quot; tab to learn more.&nbsp;<img src="{{ site.baseurl }}../assets/images/favicon.png" /> Or select the &quot;Visit Greystone&quot; tab to schedule a campus visit!</div>
 </div>
 
 <div class="mid-buttons1 hide-for-medium-down">
