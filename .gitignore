@@ -3,7 +3,7 @@ _site
 .jekyll-metadata
 exclude:
 greystoneprep/node_modules/
-# node_modules
-# /node_modules
-# /node_modules/
-# greystoneprep/node_modules/
+node_modules
+/node_modules
+/node_modules/
+greystoneprep/node_modules/
