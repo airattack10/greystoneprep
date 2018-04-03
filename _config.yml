@@ -35,6 +35,7 @@ plugins:
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
+#   - /node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
