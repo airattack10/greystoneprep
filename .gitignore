@@ -1,8 +1,9 @@
 _site
 .sass-cache
 .jekyll-metadata
-greystoneprep/node_modules/
 node_modules
+.node_modules
 /node_modules
 /node_modules/
+greystoneprep/node_modules/
 greystoneprep/node_modules/
