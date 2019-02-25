@@ -145,7 +145,7 @@ published: true
 	<li>
 	<figure><a href="{{ site.baseurl }}../Campus_Community"><img alt="Campus Community Life" src="{{ site.baseurl }}../assets/images/campus_community_life.jpg" /></a>
 
-	<figcaption><span>As full time students, Greystoners have access to all Schreiner University facilities, events, and activities.</span></figcaption>
+	<figcaption><span>Greystone students are full-time Schreiner University students and part of the campus community. Greystoners engage in leadership, academic and entertainment events, and various campus activities as part of their Schreiner experience.</span></figcaption>
 	</figure>
 	</li>
 	<li>
