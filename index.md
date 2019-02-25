@@ -92,7 +92,7 @@ published: true
 	<li>
 	<figure><a href="{{ site.baseurl }}../Schreiner"><img alt="Schreiner Affiliation" src="{{ site.baseurl }}../assets/images/schreiner_affiliation.jpg" /></a>
 
-	<figcaption><span>Greystone is the only academy prep program in the nation that is associated with a fully accredited, four-year university. This affiliation benefits candidates not only during the application process, but also during their four years at the academies.</span></figcaption>
+	<figcaption><span>Greystone is the only academy preparatory school that is affiliated with a four-year, fully-accredited university. This unique relationship enables students to continue along their academic path from high school and into college (University).</span></figcaption>
 	</figure>
 	</li>
 	<li>
@@ -145,7 +145,7 @@ published: true
 	<li>
 	<figure><a href="{{ site.baseurl }}../Campus_Community"><img alt="Campus Community Life" src="{{ site.baseurl }}../assets/images/campus_community_life.jpg" /></a>
 
-	<figcaption><span>Greystone students are full-time Schreiner University students and part of the campus community. Greystoners engage in leadership, academic and entertainment events, and various campus activities as part of their Schreiner experience.</span></figcaption>
+	<figcaption><span>Greystone students are full-time Schreiner University students and part of the campus community.</span></figcaption>
 	</figure>
 	</li>
 	<li>
@@ -161,7 +161,7 @@ published: true
 
 <div class="mid-buttons2 hide-for-medium-down">
 <div class="large-12 columns">
-<div class="large-6 columns"><a class="secondary mid-button1" href="{{ site.baseurl }}../TEAM"><img src="{{ site.baseurl }}../assets/images/team_icon.png" /> TEAM Organization</a></div>
+<div class="large-6 columns"><a class="secondary mid-button1" href="{{ site.baseurl }}../Team"><img src="{{ site.baseurl }}../assets/images/team_icon.png" /> TEAM Organization</a></div>
 
 <div class="large-6 columns"><a class="secondary mid-button2" href="{{ site.baseurl }}../Support"><img src="{{ site.baseurl }}../assets/images/support_icon.png" /> Support Mechanism</a></div>
 </div>
