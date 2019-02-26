@@ -4,7 +4,6 @@ layout: default
 published: true
 ---
 
-
 <div class="row content">
 <div class="responsive">
 <div class="stat1">
