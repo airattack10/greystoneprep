@@ -39,11 +39,11 @@ published: true
 </div>
 
 <div class="stat5">
-<p class="number">3</p>
+<p class="number">5</p>
 
-<p class="stat-headline">APPROVED BY THE BIG 3</p>
+<p class="stat-headline">SUPPORT ALL 5 ACADEMIES</p>
 
-<p class="stat-text">Greystone is approved for USAFA, USMA, and USNA foundation sponsored students.</p>
+<p class="stat-text">Greystone students earn appointments to all five Federal Service Academies</p>
 </div>
 
 <div class="stat6">
