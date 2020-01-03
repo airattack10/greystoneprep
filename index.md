@@ -73,7 +73,7 @@ published: true
 </div>
 
 <div class="row">
-<div class="marquee"><img src="{{ site.baseurl }}../assets/images/favicon.png" /> The application for 2019-2020 is OPEN.&nbsp;<img src="{{ site.baseurl }}../assets/images/favicon.png" /> Visit the &quot;Admissions&quot; tab to learn more.&nbsp;<img src="{{ site.baseurl }}../assets/images/favicon.png" /> Or select the &quot;Visit Greystone&quot; tab to schedule a campus visit!</div>
+<div class="marquee"><img src="{{ site.baseurl }}../assets/images/favicon.png" /> Application will be open shortly! &nbsp;<img src="{{ site.baseurl }}../assets/images/favicon.png" /> Please call 830-896-6530!&nbsp;<img src="{{ site.baseurl }}../assets/images/favicon.png" /></div>
 </div>
 
 <div class="mid-buttons1 hide-for-medium-down">
