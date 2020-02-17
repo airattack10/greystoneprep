@@ -364,7 +364,7 @@ published: true
 </ul>
 </div>
 
-<div class="row">
+<!-- <div class="row">
 <ul class="grid2 cs-style-4">
 	<li>
 	<figure><a href="{{ site.baseurl }}../Merchandise" target="_blank"><img alt="Merchandise" src="{{ site.baseurl }}../assets/images/merch.jpg" /></a>
@@ -375,11 +375,11 @@ published: true
 	</figure>
 	</li>
 	<li>
-	<figure><!-- ... --></figure>
+	<figure</figure>
 	</li>
-	<!-- ... -->
+
 </ul>
-</div>
+</div> -->
 </div>
 
 <div class="large-2 columns">
