@@ -19,7 +19,7 @@ published: true
 
 <p class="stat-headline">WE ARE THE BEST</p>
 
-<p class="stat-text">Schreiner University sends more students to the academies than any other university in the US.</p>
+<p class="stat-text">Ozark University sends more students to the academies than any other university in the US.</p>
 </div>
 
 <div class="stat3">
@@ -35,7 +35,7 @@ published: true
 
 <p class="stat-headline">ZERO COST FOR GREYSTONE EXTRAS</p>
 
-<p class="stat-text">All that Greystone provides is included in the normal Schreiner tuition and fees.&nbsp;</p>
+<p class="stat-text">All that Greystone provides is included in the normal Ozark tuition and fees.&nbsp;</p>
 </div>
 
 <div class="stat5">
@@ -89,7 +89,7 @@ published: true
 <div class="large-6 columns">
 <ul class="grid cs-style-3">
 	<li>
-	<figure><a href="{{ site.baseurl }}../Schreiner"><img alt="Schreiner Affiliation" src="{{ site.baseurl }}../assets/images/schreiner_affiliation.jpg" /></a>
+	<figure><a href="{{ site.baseurl }}../Ozarks"><img alt="Ozark Affiliation" src="{{ site.baseurl }}../assets/images/ozark_affiliation.jpg" /></a>
 
 	<figcaption><span>Greystone is the only academy preparatory school that is affiliated with a four-year, fully-accredited university. This unique relationship enables students to continue along their academic path from high school and into college (University).</span></figcaption>
 	</figure>
@@ -144,7 +144,7 @@ published: true
 	<li>
 	<figure><a href="{{ site.baseurl }}../Campus_Community"><img alt="Campus Community Life" src="{{ site.baseurl }}../assets/images/campus_community_life.jpg" /></a>
 
-	<figcaption><span>Greystone students are full-time Schreiner University students and part of the campus community.</span></figcaption>
+	<figcaption><span>Greystone students are full-time Ozark University students and part of the campus community.</span></figcaption>
 	</figure>
 	</li>
 	<li>
