@@ -43,7 +43,7 @@ published: true
 
 <p class="stat-headline">SUPPORT ALL 5 ACADEMIES</p>
 
-<p class="stat-text">Greystone students earn appointments to all five Federal Service Academies</p>
+<p class="stat-text">Greystone students earn appointments to all five Federal Service Academies.</p>
 </div>
 
 <div class="stat6">
