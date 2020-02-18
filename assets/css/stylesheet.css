@@ -657,8 +657,13 @@ body li {
     list-style: outside none none;
 }
 
+img.photo {
+    border: 0px;
+}
+
 .contact {
     height:245px;
+    background: url("/assets/images/contact_bg.png") no-repeat;
 }
 
 .su_bg {
