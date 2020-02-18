@@ -1,5 +1,5 @@
 ---
-# do not edit the items in this section
+# THIS IS THE HOMEPAGE
 layout: default
 published: true
 ---
@@ -19,11 +19,11 @@ published: true
 
 <p class="stat-headline">WE ARE THE BEST</p>
 
-<p class="stat-text">Ozark University sends more students to the academies than any other university in the US.</p>
+<p class="stat-text">Greystone sends more students to the academies than any university in the US.</p>
 </div>
 
 <div class="stat3">
-<p class="number">98.9%</p>
+<p class="number">98.8%</p>
 
 <p class="stat-headline">SCHOLARSHIP LEADING TO COMMISSION</p>
 
@@ -33,9 +33,9 @@ published: true
 <div class="stat4">
 <p class="number">$0</p>
 
-<p class="stat-headline">ZERO COST FOR GREYSTONE EXTRAS</p>
+<p class="stat-headline">NO ADDITIONAL COST FOR THE GREYSTONE PROGRAM</p>
 
-<p class="stat-text">All that Greystone provides is included in the normal Ozark tuition and fees.&nbsp;</p>
+<p class="stat-text">All that Greystone provides is included in the normal Ozark tuition and fees.</p>
 </div>
 
 <div class="stat5">
@@ -47,11 +47,11 @@ published: true
 </div>
 
 <div class="stat6">
-<p class="number">92%</p>
+<p class="number">94%</p>
 
 <p class="stat-headline">GRADUATION RATE</p>
 
-<p class="stat-text">In the last 8 years, 92% of Greystone students that entered an academy, graduated from the academy.</p>
+<p class="stat-text">In the last 10 years, 94% of Greystone students who entered the academies graduated.</p>
 </div>
 
 <div class="stat7">
@@ -67,7 +67,7 @@ published: true
 
 <p class="stat-headline">FREE AGENT APPOINTMENTS</p>
 
-<p class="stat-text">Approximately 3/4 of non-sponsored students who complete the Greystone program earn appointments.</p>
+<p class="stat-text">Over 77% of the non-sponsored candidates earn their academy appointments.</p>
 </div>
 </div>
 </div>
@@ -144,7 +144,7 @@ published: true
 	<li>
 	<figure><a href="{{ site.baseurl }}../Campus_Community"><img alt="Campus Community Life" src="{{ site.baseurl }}../assets/images/campus_community_life.jpg" /></a>
 
-	<figcaption><span>Greystone students are full-time Ozark University students and part of the campus community.</span></figcaption>
+	<figcaption><span>Greystone students are full-time University of the Ozarks students and part of the campus community.</span></figcaption>
 	</figure>
 	</li>
 	<li>
@@ -189,7 +189,7 @@ published: true
 	<li>
 	<figure><a href="{{ site.baseurl }}../Academy_Way"><img alt="Greystone Enhancement" src="{{ site.baseurl }}../assets/images/academy_way.jpg" /></a>
 
-	<figcaption><span>Why is that Greystone students do not march or wear uniforms?</span></figcaption>
+	<figcaption><span>Greystone mimics the academy academic, athletic and leadership environment</span></figcaption>
 	</figure>
 	</li>
 	<li>
@@ -328,7 +328,7 @@ published: true
 </ul>
 </div>
 
-<div class="row">
+<!-- <div class="row">
 <ul class="grid2 cs-style-4">
 	<li>
 	<figure><a href="{{ site.baseurl }}../Compass"><img alt="Compass" src="{{ site.baseurl }}../assets/images/compass.jpg" /></a>
@@ -339,11 +339,11 @@ published: true
 	</figure>
 	</li>
 	<li>
-	<figure><!-- ... --></figure>
+	<figure></figure>
 	</li>
-	<!-- ... -->
+
 </ul>
-</div>
+</div> -->
 </div>
 
 <div class="large-2 columns">
