@@ -14,12 +14,24 @@ published: true
 <div class="large-12 columns">
 	<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLTgMBdh-_pANcPQD-OPsNDGmD0OekP8Qp" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-	<div id="youtubeDivPlaylist"></div>
+	<!-- <div id="youtubeDivPlaylist"></div>
 	<script>ytEmbed.init({'block':'youtubeDivPlaylist','type':'playlist','q':'PLTgMBdh-_pANcPQD-OPsNDGmD0OekP8Qp','results': 3, 'meta':true});</script>
-	<hr/>
 	<script>
 		ytEmbed.init({'block':'ytThumbs','key':'AIzaSyAF-IKIZ8dYbwOeXqqDyYgYX0yuuW7i2oU','q':'PLTgMBdh-_pANcPQD-OPsNDGmD0OekP8Qp','type':'playlist','results':10,'meta':true,'player':'embed','layout':'full'});
-	</script>
+	</script> -->
+
+<div id="youtube" class="spidochetube"></div>
+
+	<script>
+jQuery(function($){
+    $('#youtube').spidochetube({
+        key         : '[AIzaSyAF-IKIZ8dYbwOeXqqDyYgYX0yuuW7i2oU]',
+        id          : 'PLTgMBdh-_pANcPQD-OPsNDGmD0OekP8Qp', // add the youtube playlist id of your choice
+    });
+})
+</script>
+	<hr/>
+
 </div>
 
 <table align="left" cellpadding="1" cellspacing="1" style="width: 300px;">
