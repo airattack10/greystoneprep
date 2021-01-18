@@ -33,7 +33,7 @@ published: true
 <div class="stat4">
 <p class="number">$0</p>
 
-<p class="stat-headline">NO ADDITIONAL COST FOR THE GREYSTONE PROGRAM</p>
+<p class="stat-headline">NO ADDITIONAL COST FOR GREYSTONE</p>
 
 <p class="stat-text">All that Greystone provides is included in the normal Ozark tuition and fees.</p>
 </div>
