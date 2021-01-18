@@ -73,7 +73,7 @@ published: true
 </div>
 
 <div class="row">
-<div class="marquee"><img src="{{ site.baseurl }}../assets/images/favicon.png" /> Greystone has relocated to the University of Ozarks! &nbsp;<img src="{{ site.baseurl }}../assets/images/favicon.png" /> Application for the Class of 2022 is NOW OPEN! &nbsp;<img src="{{ site.baseurl }}../assets/images/favicon.png" /> Greystone has relocated to  the University of Ozarks! &nbsp;<img src="{{ site.baseurl }}../assets/images/favicon.png" /> Application for the Class of 2022 is NOW OPEN! &nbsp;<img src="{{ site.baseurl }}../assets/images/favicon.png" /> </div>
+<div class="marquee"><img src="{{ site.baseurl }}../assets/images/favicon.png" /> Greystone has relocated to the University of the Ozarks! &nbsp;<img src="{{ site.baseurl }}../assets/images/favicon.png" /> Application for the Class of 2022 is NOW OPEN! &nbsp;<img src="{{ site.baseurl }}../assets/images/favicon.png" /> Greystone has relocated to  the University of the Ozarks! &nbsp;<img src="{{ site.baseurl }}../assets/images/favicon.png" /> Application for the Class of 2022 is NOW OPEN! &nbsp;<img src="{{ site.baseurl }}../assets/images/favicon.png" /> </div>
 </div>
 
 <div class="mid-buttons1 hide-for-medium-down">
