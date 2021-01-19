@@ -99,7 +99,7 @@ published: true
 	</li>
 	<li>
 	<figure><a href="{{ site.baseurl }}../ROTC"><img alt="Army ROTC" src="{{ site.baseurl }}../assets/images/army_rotc.jpg" /></a>
-	<figcaption><span>Thanks to a unique relationship with UTSA Army ROTC, Greystone students can begin their military experience right away!</span></figcaption>
+	<figcaption><span>Thanks to a unique relationship with Arkansas Tech Army ROTC, Greystone students can begin their military experience right away!</span></figcaption>
 	</figure>
 	</li>
 	<li>
