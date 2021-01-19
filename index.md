@@ -91,7 +91,7 @@ published: true
 	<li>
 	<figure><a href="{{ site.baseurl }}../Ozarks"><img alt="Ozark Affiliation" src="{{ site.baseurl }}../assets/images/ozark-affiliation.jpg" /></a>
 
-	<figcaption><span>Greystone is the only academy preparatory school that is affiliated with a four-year, fully-accredited university. This unique relationship enables students to continue along their academic path from high school and into college (University).</span></figcaption>
+	<figcaption><span>Greystone is the only academy preparatory school affiliated with a four-year, fully-accredited university. This unique relationship enables students to continue along their academic path from high school and into college (University).</span></figcaption>
 	</figure>
 	</li>
 	<li>
