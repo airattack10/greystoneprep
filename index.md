@@ -144,7 +144,7 @@ published: true
 	<li>
 	<figure><a href="{{ site.baseurl }}../Campus_Community"><img alt="Campus Community Life" src="{{ site.baseurl }}../assets/images/campus_community_life.jpg" /></a>
 
-	<figcaption><span>Greystone students are full-time University of the Ozarks students and part of the campus community.</span></figcaption>
+	<figcaption><span>Greystone students are full-time University of the Ozarks students and participate in a wide variety of campus activities.</span></figcaption>
 	</figure>
 	</li>
 	<li>
