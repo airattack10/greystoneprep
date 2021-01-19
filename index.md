@@ -129,7 +129,7 @@ published: true
 	<li>
 	<figure><a href="{{ site.baseurl }}../Development"><img alt="Professional Development" src="{{ site.baseurl }}../assets/images/professional_dev.jpg" /></a>
 
-	<figcaption><span>Developing a sound moral compass is one of the focuses of the Greystone program</span></figcaption>
+	<figcaption><span>Students learn about Honor, Conduct, Time Management, Public Speaking, Character and Leadership Development as part of their Greystone experience</span></figcaption>
 	</figure>
 	</li>
 	<li>
