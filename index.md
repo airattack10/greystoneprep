@@ -99,7 +99,7 @@ published: true
 	</li>
 	<li>
 	<figure><a href="{{ site.baseurl }}../ROTC"><img alt="Army ROTC" src="{{ site.baseurl }}../assets/images/army_rotc.jpg" /></a>
-	<figcaption><span>Thanks to a Cross Town relationship with Arkansas Technical University, Greystone students can enroll in Army ROTC Military Science I. This course meets twice weekly and introduces students to military fundamentals through classroom and Lab settings.  Students wear OCP uniforms on lecture and Lab days.</span></figcaption>
+	<figcaption><span>Thanks to a cross town relationship with Arkansas Technical University, Greystone students can enroll in Army ROTC Military Science I. This course meets twice weekly and introduces students to military fundamentals through classroom and Lab settings.  Students wear OCP uniforms on lecture and Lab days.</span></figcaption>
 	</figure>
 	</li>
 	<li>
