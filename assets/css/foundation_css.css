@@ -1351,7 +1351,7 @@ meta.foundation-mq-topbar {
     height: 1px;
     width: 100%; }
   .top-bar-section ul li {
-    background: url("{{ site.baseurl }}../assets/images/menu_bg.jpg") repeat-x; }
+    background: url("/assets/images/menu_bg.jpg") repeat-x; }
     .top-bar-section ul li > a {
       display: block;
       width: 100%;
@@ -1519,7 +1519,7 @@ meta.foundation-mq-topbar {
 
 @media only screen and (min-width: 65.063em) {
   .top-bar {
-    background: url("{{ site.baseurl }}../assets/images/menu_bg.jpg") repeat-x;
+    background: url("/assets/images/menu_bg.jpg") repeat-x;
     margin: -69px 0 0 0;
     border-radius:0px;
     overflow: visible; }

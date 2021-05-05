@@ -322,19 +322,19 @@ video#bgvid {
 background: white;
 }
 .slick-prev {
-    background: url("{{ site.baseurl }}../assets/images/slick_button_previous.png") no-repeat;
+    background: url("/assets/images/slick_button_previous.png") no-repeat;
 }
 
 .slick-prev:hover {
-    background: url("{{ site.baseurl }}../assets/images/slick_button_previous.png") no-repeat;
+    background: url("/assets/images/slick_button_previous.png") no-repeat;
     opacity:.5;
 }
 .slick-next {
-    background: url("{{ site.baseurl }}../assets/images/slick_button_next.png") no-repeat;
+    background: url("/assets/images/slick_button_next.png") no-repeat;
 }
 
 .slick-next:hover {
-    background: url("{{ site.baseurl }}../assets/images/slick_button_next.png") no-repeat;
+    background: url("/assets/images/slick_button_next.png") no-repeat;
     opacity:.5;
 }
 
@@ -344,7 +344,7 @@ background: white;
 }
 
 .menu-left-wing {
-    background: url("{{ site.baseurl }}../assets/images/nav_wing_left.png") no-repeat;
+    background: url("/assets/images/nav_wing_left.png") no-repeat;
     width:24px;
     height:45px;
     float:left;
@@ -354,7 +354,7 @@ background: white;
     content: '';
     height: 45px;
     width: 24px;
-    background: url("{{ site.baseurl }}../assets/images/nav_wing_left.png") no-repeat;
+    background: url("/assets/images/nav_wing_left.png") no-repeat;
     position: absolute;
     top: 0;
     left: -24px;
@@ -368,7 +368,7 @@ background: white;
     content: '';
     height: 45px;
     width: 24px;
-    background: url("{{ site.baseurl }}../assets/images/nav_wing_left.png") repeat-x;
+    background: url("/assets/images/nav_wing_left.png") repeat-x;
     position: absolute;
     top: 0;
     right: 0;
