@@ -35,7 +35,7 @@ published: true
 
 <p class="stat-headline">NO ADDITIONAL COST FOR GREYSTONE</p>
 
-<p class="stat-text">All Greystone provides is included in the normal University of the Ozarks tuition and fees.</p>
+<p class="stat-text">All that Greystone provides is included in the normal University of the Ozarks tuition and fees.</p>
 </div>
 
 <div class="stat5">
