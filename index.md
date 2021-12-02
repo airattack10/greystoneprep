@@ -114,7 +114,7 @@ published: true
 	<li>
 	<figure><a href="{{ site.baseurl }}../Enhancement"><img alt="Greystone Enhancement" src="{{ site.baseurl }}../assets/images/greystone_enhancement.jpg" /></a>
 
-	<figcaption><span>Greystone enhances each aspect of the academy application (Acadmics, Athletics and Leadership Experience) process to ensure success for each candidate.</span></figcaption>
+	<figcaption><span>Greystone enhances each aspect of the academy application (Academics, Athletics and Leadership Experience) process to ensure success for each candidate.</span></figcaption>
 	</figure>
 	</li>
 	<li>
